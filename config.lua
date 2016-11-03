@@ -1,9 +1,9 @@
-bot_token = "245451534:AAEgrx-zGY_wRWkR0qYHi2xjSNL-qEjMZFU"
+bot_token = "280379211:AAHTbvIbv_BfldIFU0leRi8MAOOWFDupadc"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "6.0"
-sudo_name = "Engineer Shayan Ahmadi"
-sudo_id = 259300954
-admingp = -135847900
-sudo_num = "989351372038"
-sudo_user = "shayan_soft"
-sudo_ch = "UmbrellaTeam"
+sudo_name = "Amin Kavari Nasab"
+sudo_id = 255462660
+admingp = -12345678
+sudo_num = "989168054412"
+sudo_user = "xXD4RKXx"
+sudo_ch = "."
